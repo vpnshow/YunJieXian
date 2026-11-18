@@ -6,21 +6,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/yunjiexian) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-云界线（YunJieXian）支持**通用订阅**，提供周期套餐与一次性不限时流量包。常规月付从 **¥25、150GB/月**起；云界年付小包为 **¥96/年、60GB/月**，折合 **¥8/月**。偶尔使用或准备备用线路时，还可比较 **¥99 的 80GB** 与 **¥199 的 200GB** 不限时流量包。专属优惠码 **`eoht666` 享 6.5 折**，另有新客首单 **7 折码 `yjx888`**；两种优惠的适用条件分别核对，最终付款金额以结算页为准。
-
 > [!NOTE]
 > **30 秒看懂云界线(YunJieXian)**
 >
-> - **月付起步**：轻云·基础版 ¥25/月、150GB/月。
-> - **最低年付**：云界年付小包 ¥96/年、60GB/月，折合 ¥8/月，需一次支付全年费用。
-> - **流量档位**：周期套餐每月 60GB、150GB、300GB 或 600GB；不限时流量包提供一次性 80GB 或 200GB。
-> - **设备与速率**：套餐标注不限制设备数量、不限速，实际表现可结合节点与本地网络测试。
-> - **订阅与支付**：支持通用订阅，可使用支付宝、微信支付或 USDT 付款。
-> - **专属优惠**：6.5 折优惠码 `eoht666`，下方价格表列原始标价。
-> - **新客首单**：7 折码 `yjx888`，适用于月付、季付、半年付及年付，每位新用户限用一次，不与其他优惠券叠加。
+> [访问官网](https://eoht.net/serve/airport/yunjiexian) · [查看套餐与优惠码](https://eoht.net/serve/airport/yunjiexian#yunjiexian-vpn-plans) · [查看测速图](https://eoht.net/serve/airport/yunjiexian#yunjiexian-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> [查看套餐与优惠码](https://eoht.net/serve/airport/yunjiexian#yunjiexian-vpn-plans) · [查看测速图](https://eoht.net/serve/airport/yunjiexian#yunjiexian-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：轻云·基础版 ¥25/月、150GB/月；年付小包 ¥96/年、60GB/月，需一次支付全年费用。
+> - **服务方式**：支持通用订阅，另有 80GB、200GB 一次性不限时流量包；套餐标注不限设备、不限速，实际表现需结合本地网络。
+> - **优惠限制**：专属码 `eoht666` 享 6.5 折；`yjx888` 为新客首单 7 折，限月付、季付、半年付及年付，每人一次，**不与其他优惠券叠加**；表格保留标价。
 >
+
+云界线（YunJieXian）支持**通用订阅**，提供周期套餐与一次性不限时流量包。常规月付从 **¥25、150GB/月**起；云界年付小包为 **¥96/年、60GB/月**，折合 **¥8/月**。偶尔使用或准备备用线路时，还可比较 **¥99 的 80GB** 与 **¥199 的 200GB** 不限时流量包。专属优惠码 **`eoht666` 享 6.5 折**，另有新客首单 **7 折码 `yjx888`**；两种优惠的适用条件分别核对，最终付款金额以结算页为准。
 
 <a id="yunjiexian-official-website"></a>
 
